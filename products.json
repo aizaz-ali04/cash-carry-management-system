@@ -1,0 +1,48 @@
+[
+    {
+        "name": "apples",
+        "price": 20.0,
+        "quantity": 18,
+        "category": "Food",
+        "image_path": "product_images\\apples_105402.jpg"
+    },
+    {
+        "name": "toothpast",
+        "price": 180.0,
+        "quantity": 9,
+        "category": "General",
+        "image_path": "product_images\\toothpast_105931.jpeg"
+    },
+    {
+        "name": "ice cream",
+        "price": 90.0,
+        "quantity": 18,
+        "category": "General",
+        "image_path": "product_images\\ice_cream_113937.jpeg",
+        "video_path": "product_videos\\ice_cream_113937.mp4"
+    },
+    {
+        "name": "cake",
+        "price": 300.0,
+        "quantity": 22,
+        "category": "Food"
+    },
+    {
+        "name": "bannanas",
+        "price": 120.0,
+        "quantity": 10,
+        "category": "Food"
+    },
+    {
+        "name": "snacks",
+        "price": 50.0,
+        "quantity": 20,
+        "category": "General"
+    },
+    {
+        "name": "lays",
+        "price": 80.0,
+        "quantity": 15,
+        "category": "General"
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "items": {
+            "soap": {
+                "price": 200.0,
+                "qty": 2
+            },
+            "cake": {
+                "price": 1000.0,
+                "qty": 1
+            },
+            "juice": {
+                "price": 120.0,
+                "qty": 1
+            }
+        },
+        "total": 1520.0
+    },
+    {
+        "items": {
+            "cake": {
+                "price": 1000.0,
+                "qty": 1
+            },
+            "coke": {
+                "price": 180.0,
+                "qty": 1
+            },
+            "juice": {
+                "price": 120.0,
+                "qty": 1
+            }
+        },
+        "total": 1300.0
+    },
+    {
+        "date": "2026-05-10 22:51",
+        "items": {
+            "soap": {
+                "price": 200.0,
+                "qty": 3
+            },
+            "cake": {
+                "price": 1000.0,
+                "qty": 1
+            },
+            "coke": {
+                "price": 180.0,
+                "qty": 1
+            },
+            "juice": {
+                "price": 120.0,
+                "qty": 1
+            }
+        },
+        "total": 1900.0
+    },
+    {
+        "items": {
+            "cooking oil": {
+                "price": 1222.0,
+                "qty": 1
+            },
+            "cake": {
+                "price": 1000.0,
+                "qty": 1
+            },
+            "juice": {
+                "price": 120.0,
+                "qty": 1
+            },
+            "rice": {
+                "price": 500.0,
+                "qty": 1
+            }
+        },
+        "total": 2842.0
+    },
+    {
+        "items": {
+            "banana": {
+                "price": 10.0,
+                "qty": 1
+            }
+        },
+        "total": 10.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 2
+            }
+        },
+        "total": 100.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "items": {
+            "cooking oil": {
+                "price": 1222.0,
+                "qty": 1
+            },
+            "toothpast": {
+                "price": 150.0,
+                "qty": 1
+            }
+        },
+        "total": 1372.0
+    },
+    {
+        "items": {
+            "juice": {
+                "price": 120.0,
+                "qty": 2
+            },
+            "rice": {
+                "price": 500.0,
+                "qty": 1
+            }
+        },
+        "total": 740.0
+    },
+    {
+        "items": {
+            "iphone case": {
+                "price": 50000.0,
+                "qty": 1
+            }
+        },
+        "total": 50000.0
+    },
+    {
+        "items": {
+            "iphone case": {
+                "price": 50000.0,
+                "qty": 1
+            }
+        },
+        "total": 50000.0
+    },
+    {
+        "items": {
+            "iphone case": {
+                "price": 50000.0,
+                "qty": 1
+            }
+        },
+        "total": 50000.0
+    },
+    {
+        "items": {
+            "ice cream": {
+                "price": 50.0,
+                "qty": 1
+            }
+        },
+        "total": 50.0
+    },
+    {
+        "date": "2026-05-12 10:50",
+        "items": {
+            "ice cream": {
+                "price": 60.0,
+                "qty": 1
+            }
+        },
+        "total": 60.0
+    },
+    {
+        "date": "2026-05-12 10:59",
+        "items": {
+            "toothpast": {
+                "price": 180.0,
+                "qty": 1
+            }
+        },
+        "total": 180.0
+    },
+    {
+        "date": "2026-05-12 11:08",
+        "items": {
+            "cake": {
+                "price": 900.0,
+                "qty": 1
+            },
+            "apples": {
+                "price": 20.0,
+                "qty": 1
+            }
+        },
+        "total": 920.0
+    },
+    {
+        "date": "2026-05-12 11:42",
+        "items": {
+            "iphone case": {
+                "price": 50000.0,
+                "qty": 1
+            }
+        },
+        "total": 50000.0
+    },
+    {
+        "date": "2026-05-12 21:50",
+        "items": {
+            "ice cream": {
+                "price": 90.0,
+                "qty": 1
+            }
+        },
+        "total": 90.0
+    },
+    {
+        "date": "2026-07-08 19:02",
+        "items": {
+            "cake": {
+                "price": 900.0,
+                "qty": 1
+            },
+            "toothpast": {
+                "price": 180.0,
+                "qty": 1
+            },
+            "apples": {
+                "price": 20.0,
+                "qty": 1
+            }
+        },
+        "total": 1100.0
+    },
+    {
+        "date": "2026-07-09 16:18",
+        "items": {
+            "toothpast": {
+                "price": 180.0,
+                "qty": 1
+            },
+            "ice cream": {
+                "price": 90.0,
+                "qty": 1
+            }
+        },
+        "total": 270.0
+    }
+]
