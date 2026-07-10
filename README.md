@@ -16,7 +16,7 @@ A desktop-based **Cash & Carry Management System** built with **Python** and **T
 - 💰 Track total revenue
 - 💾 JSON-based data storage
 
-##  screenshots
+## 📸 Screenshots
 
 <img width="959" height="507" alt="Screenshot 2026-07-10 215714" src="https://github.com/user-attachments/assets/e1426bc2-d354-49de-ac44-73015e8e534d" />
 <img width="959" height="502" alt="Screenshot 2026-07-10 215823" src="https://github.com/user-attachments/assets/a3907f02-8eb4-4e28-9e63-8e4cf1974873" />
